@@ -21,23 +21,26 @@ Estudiante de Ingeniería de Sistemas enfocado en **Data Analytics** con experie
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Marimo](https://img.shields.io/badge/Marimo-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 
-**Metodologías**
+**Metodologías & Herramientas**
 
 ![ETL](https://img.shields.io/badge/ETL-FF6B35?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0A9EDC?style=for-the-badge)
 ![IBCS](https://img.shields.io/badge/IBCS-2ECC71?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
 ## 📁 Proyectos Destacados
 
 ### 🛒 [Análisis de Ventas Retail](https://github.com/BernieJimenez/retail-sales-analysis)
-> Python · SQL Server · Power BI · DAX · IBCS
+> Python · SQL Server · Power BI · DAX · IBCS · MCP
 
-Pipeline completo de datos: limpieza de **541K registros** con Pandas, carga a SQL Server con SQLAlchemy y dashboard analítico en Power BI con **40 medidas DAX** siguiendo el estándar IBCS.
+Pipeline completo de datos: limpieza de **541K registros** con Pandas, carga a SQL Server con SQLAlchemy y dashboard analítico en Power BI con **40 medidas DAX** siguiendo el estándar IBCS. El modelo semántico fue auditado y optimizado usando **MCP (Model Context Protocol)** con conexión directa al modelo desde Claude AI.
+
 - 📊 406K transacciones limpias | 10 países | 3,887 productos
 - 📈 Crecimiento de +42.86% vs año anterior detectado y visualizado
 - 🏆 Identificación del patrón estacional pre-navideño en noviembre
+- 🤖 Optimización vía MCP: corrección de formatos, creación de medidas y auditoría de fatiga visual
 
 ---
 
@@ -66,15 +69,16 @@ Automatización de extracción y limpieza de **+5,000 registros** de órdenes. R
 
 🎓 **Ingeniería en Sistemas y Computación** — Universidad Dominicana O&M *(en curso)*
 
-📜 Máster en SQL Server — Udemy  
-📜 Excel y Power BI — Udemy  
-📜 Python Data Science — Udemy  
+📜 Máster en SQL Server — Udemy · [Ver certificado](https://www.udemy.com/certificate/UC-0cae0796-143d-45ce-87b2-225ec5395372/)
+
+📜 Excel y Power BI — Udemy · [Ver certificado](https://www.udemy.com/certificate/UC-94ecddcb-c065-4e05-8cc1-571737ff5403/)
+
+📜 Python Data Science — Udemy · [Ver certificado](https://www.udemy.com/certificate/UC-b2a49b85-fdce-4f26-b324-8bd9e41b6617/)
 
 ---
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bernie-jimenez-bueno-37199a36a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berniejimenez493@gmail.com)
 
 📍 Santo Domingo Oeste, República Dominicana

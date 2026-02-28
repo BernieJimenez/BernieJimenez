@@ -74,7 +74,7 @@ Automatización de extracción y limpieza de **+5,000 registros** de órdenes. R
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berniejimenez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bernie-jimenez-bueno-37199a36a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berniejimenez493@gmail.com)
 
 📍 Santo Domingo Oeste, República Dominicana

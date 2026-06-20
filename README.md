@@ -32,6 +32,21 @@ Estudiante de Ingeniería de Sistemas enfocado en **Data Analytics** con experie
 
 ## 📁 Proyectos Destacados
 
+---
+
+### 💰 [BCRD Remesas ETL](https://github.com/BernieJimenez/bcrd_remesas_etl)
+> Python · Excel · SQL Server · Power BI · Marimo
+
+Pipeline ETL completo para procesamiento de datos de remesas del Banco Central Dominicano. Descarga desde Excel, limpieza con Python en Marimo, almacenamiento en SQL Server y visualización en Power BI.
+
+📈 Crecimiento interanual del 10.97%
+🇺🇸 Participación de Estados Unidos (81.5%)
+🏙️ Concentración en Distrito Nacional (45.9%)
+💱 Evolución de la tasa de cambio (RD$36 → RD$58)
+📅 Patrones de estacionalidad
+
+---
+
 ### 🛒 [Análisis de Ventas Retail](https://github.com/BernieJimenez/retail-sales-analysis)
 > Python · SQL Server · Power BI · DAX · IBCS · MCP
 

@@ -2,7 +2,7 @@
 
 # Hola, soy Bernie Jimenez 👋
 
-### Analista de Datos Jr. | Python · SQL Server · Power BI · DAX
+### Analista de Datos | Python · SQL Server · Power BI · DAX
 
 Transformo datos dispersos en procesos reproducibles, métricas claras y dashboards que ayudan a tomar mejores decisiones.
 

@@ -1,93 +1,110 @@
 <div align="center">
 
-# Hola, soy Bernie Jimenez 👋
+# Bernie Jimenez
 
-### Analista de Datos | Python · SQL Server · Power BI · DAX
+### Analista de Datos · Business Intelligence · Data Products
 
-Transformo datos dispersos en procesos reproducibles, métricas claras y dashboards que ayudan a tomar mejores decisiones.
+**Convierto datos complejos en sistemas confiables, análisis claros y decisiones medibles.**
 
-[![Email](https://img.shields.io/badge/Email-Escríbeme-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:berniejimenez493@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BernieJimenez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BernieJimenez)
-![Ubicación](https://img.shields.io/badge/Santo%20Domingo-República%20Dominicana-002D62?style=flat-square)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Proyectos-176D62?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BernieJimenez?tab=repositories)
+[![Email](https://img.shields.io/badge/Contacto-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berniejimenez493@gmail.com)
+[![Ubicación](https://img.shields.io/badge/Santo%20Domingo-República%20Dominicana-002D62?style=for-the-badge)](https://www.google.com/maps/place/Santo+Domingo)
 
 </div>
 
-## Sobre mí
+## Perfil
 
-Soy estudiante de **Ingeniería en Sistemas y Computación**, enfocado en analítica de datos y Business Intelligence. Trabajo el ciclo completo del dato: desde la extracción y limpieza hasta el modelado, el análisis y la comunicación visual de resultados.
+Analista de datos enfocado en construir soluciones completas: desde la extracción y validación hasta el modelado, la visualización y la comunicación de hallazgos. Combino **Python, SQL Server, Power BI y DAX** para convertir preguntas de negocio en procesos reproducibles y métricas confiables.
 
-- Desarrollo pipelines ETL con **Python, Pandas y SQL Server**.
-- Diseño modelos semánticos y dashboards en **Power BI**.
-- Construyo métricas de negocio con **DAX** y principios de comunicación **IBCS**.
-- Documento hallazgos, supuestos y limitaciones para que el análisis sea fácil de entender y reproducir.
-
-## Herramientas
-
-| Área | Tecnologías |
-| --- | --- |
-| Análisis y visualización | Power BI · DAX · Excel · Power Query · IBCS |
-| Datos y programación | Python · Pandas · SQL · SQL Server · SQLAlchemy |
-| Flujo de trabajo | ETL · Modelado de datos · Marimo · Git · GitHub |
-
-## Proyectos destacados
-
-### 💰 [Pipeline ETL de remesas del BCRD](https://github.com/BernieJimenez/bcrd_remesas_etl)
-
-`Python` `Pandas` `Marimo` `SQL Server` `Power BI`
-
-Pipeline que procesa datos de remesas del Banco Central de la República Dominicana: descarga archivos, limpia y valida la información, la almacena en SQL Server y la prepara para su análisis en Power BI.
-
-- Integra datos mensuales, país de origen, provincia de destino y tasa de cambio.
-- Identificó un crecimiento interanual de **10.97%** y una participación de **81.5%** de Estados Unidos.
-- Documenta el flujo de datos, la estructura del proyecto y los pasos de ejecución.
-
-[Ver código y documentación →](https://github.com/BernieJimenez/bcrd_remesas_etl)
-
----
-
-### 🛒 [Análisis de ventas retail](https://github.com/BernieJimenez/retail-sales-analysis)
-
-`Python` `SQL Server` `Power BI` `DAX` `IBCS`
-
-Análisis de comercio electrónico construido a partir de un dataset de **541,909 registros**, con limpieza en Python, almacenamiento en SQL Server y un modelo analítico en Power BI.
-
-- Consolidó **406,829 transacciones**, **4,372 clientes** y **3,887 productos**.
-- Incluye **40 medidas DAX** y una estructura visual basada en el estándar IBCS.
-- Detectó un crecimiento de ventas de **42.86%** y un patrón estacional pre-navideño en noviembre.
-
-[Ver análisis completo →](https://github.com/BernieJimenez/retail-sales-analysis)
-
-### Otros casos de estudio
-
-- 🚗 **Mercado automotriz:** limpieza del dataset CarDekho con Pandas y Marimo; reducción aproximada del **40%** en el tiempo de preprocesamiento.
-- 📊 **Rentabilidad y margen:** modelo en Power BI con métricas de utilidad neta y margen bruto; reducción del **50%** en el tiempo de generación de reportes.
-- ⚙️ **Eficiencia en producción:** automatización en Excel y Power Query para procesar más de **5,000 órdenes** y agilizar el análisis de cuellos de botella.
-
-## Cómo trabajo
+También desarrollo herramientas que mejoran la forma de trabajar con datos. Mi proyecto principal, **Columnia**, reúne calidad, transformación, SQL y exportación en una aplicación local-first.
 
 ```text
-Fuentes de datos → Limpieza y validación → SQL Server → Modelo semántico → Dashboard → Hallazgos
+Datos crudos → Calidad → Transformación → Modelo → Visualización → Decisión
 ```
 
-Mi objetivo no es solo crear gráficos: busco convertir preguntas de negocio en métricas confiables y conclusiones accionables.
-
-## Formación y certificaciones
-
-- 🎓 **Ingeniería en Sistemas y Computación** — Universidad Dominicana O&M *(en curso)*
-- 📜 [Máster en SQL Server](https://www.udemy.com/certificate/UC-0cae0796-143d-45ce-87b2-225ec5395372/) — Udemy
-- 📜 [Excel y Power BI](https://www.udemy.com/certificate/UC-94ecddcb-c065-4e05-8cc1-571737ff5403/) — Udemy
-- 📜 [Python Data Science](https://www.udemy.com/certificate/UC-b2a49b85-fdce-4f26-b324-8bd9e41b6617/) — Udemy
-
-## Contacto
-
-Estoy abierto a oportunidades junior, prácticas y colaboraciones en **Data Analytics** y **Business Intelligence**.
-
-- Email: [berniejimenez493@gmail.com](mailto:berniejimenez493@gmail.com)
-- GitHub: [github.com/BernieJimenez](https://github.com/BernieJimenez)
-- Ubicación: Santo Domingo Oeste, República Dominicana
+## Proyecto principal
 
 <div align="center">
 
-*Los datos no mienten; el reto está en convertirlos en decisiones.*
+### [Columnia — Estación local de datos](https://github.com/BernieJimenez/Columnia)
+
+Revisa, limpia, transforma, valida y exporta datasets sin sacar la información del equipo.
+
+[![Código](https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BernieJimenez/Columnia)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-F2C94C?style=flat-square)](https://github.com/BernieJimenez/Columnia/blob/master/LICENSE)
+![Privacidad](https://img.shields.io/badge/Arquitectura-local--first-143239?style=flat-square)
+
+</div>
+
+[![Recorrido de Columnia](https://raw.githubusercontent.com/BernieJimenez/Columnia/master/docs/images/gallery/00-recorrido.gif)](https://github.com/BernieJimenez/Columnia)
+
+**Qué resuelve:**
+
+- Diagnostica nulos, duplicados, tipos incompatibles y otras señales de calidad.
+- Aplica correcciones y transformaciones con historial reversible.
+- Ejecuta consultas SQL locales mediante Polars o DuckDB.
+- Valida contratos de calidad antes de exportar una copia.
+- Guarda proyectos sin cuentas, telemetría ni sincronización remota.
+
+`Rust` `Tauri 2` `React` `TypeScript` `Polars` `DuckDB` `SQLite`
+
+## Proyectos de analítica
+
+| Proyecto | Impacto y enfoque |
+| --- | --- |
+| [**Pipeline ETL de remesas del BCRD**](https://github.com/BernieJimenez/bcrd_remesas_etl) | Pipeline reproducible con Python, Pandas y SQL Server. Integra datos mensuales, geografía y tasa de cambio para análisis en Power BI. Identificó un crecimiento interanual de **10.97%** y una participación de **81.5%** de Estados Unidos. |
+| [**Análisis de ventas retail**](https://github.com/BernieJimenez/retail-sales-analysis) | Análisis de **541,909 registros**, con limpieza en Python, modelo en SQL Server y dashboard con **40 medidas DAX**. Consolidó 406,829 transacciones y detectó un crecimiento de ventas de **42.86%**. |
+
+### Otros casos de estudio
+
+- **Mercado automotriz:** limpieza con Pandas y Marimo; reducción aproximada del 40% en el tiempo de preprocesamiento.
+- **Rentabilidad y margen:** modelo de Power BI con utilidad neta y margen bruto; reducción del 50% en el tiempo de generación de reportes.
+- **Eficiencia en producción:** automatización con Excel y Power Query para analizar más de 5,000 órdenes.
+
+## Capacidades
+
+| Análisis y BI | Ingeniería de datos | Producto y calidad |
+| --- | --- | --- |
+| Power BI · DAX · Excel | Python · Pandas · SQL | Validación · Testing · Documentación |
+| Power Query · IBCS | SQL Server · SQLAlchemy | Git · GitHub · Automatización |
+| Modelado semántico | ETL · Transformaciones | Privacidad local-first |
+
+## Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+## Cómo trabajo
+
+- Empiezo por la pregunta de negocio y defino métricas verificables.
+- Automatizo tareas repetitivas y documento supuestos, límites y decisiones.
+- Valido la calidad antes de presentar resultados.
+- Diseño dashboards para comunicar, no solo para mostrar gráficos.
+
+## Formación
+
+- **Ingeniería en Sistemas y Computación** — Universidad Dominicana O&M *(en curso)*
+- [Máster en SQL Server](https://www.udemy.com/certificate/UC-0cae0796-143d-45ce-87b2-225ec5395372/)
+- [Excel y Power BI](https://www.udemy.com/certificate/UC-94ecddcb-c065-4e05-8cc1-571737ff5403/)
+- [Python Data Science](https://www.udemy.com/certificate/UC-b2a49b85-fdce-4f26-b324-8bd9e41b6617/)
+
+## Contacto
+
+Estoy abierto a oportunidades y colaboraciones en **Data Analytics, Business Intelligence y desarrollo de productos de datos**.
+
+- [berniejimenez493@gmail.com](mailto:berniejimenez493@gmail.com)
+- [github.com/BernieJimenez](https://github.com/BernieJimenez)
+- Santo Domingo Oeste, República Dominicana
+
+<div align="center">
+
+— **Datos confiables. Análisis claro. Decisiones con contexto.** —
 
 </div>
